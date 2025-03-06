@@ -33,10 +33,10 @@ Whatever you do, the important thing is that you are recording your design proce
 Let's begin by playing our level ourselves. In this initial play through, we're looking for any "bugs" in the level design. This is a process known as QA, and involves essentially checking if the software is behaving as expected. Although both QA and playtesting are forms of testing, and we will be doing them both here, it is important to understand the distinction between them. We will be covering this in a later week, so stay tuned!
 
 For your QA, play your level and answer the following questions:
-* Are there jumps that can't be made? 
-* Are there any opportunties for the player to get stuck and unable to progress?
-* Can the player always see what they need to see? Does the camera ever "cut off" important information?
-* Are there any other mechanical issues with your level that prevent the player from progressing, or cause the system to act in unexpected ways?
+* Are there jumps that can't be made? no
+* Are there any opportunties for the player to get stuck and unable to progress? no
+* Can the player always see what they need to see? Does the camera ever "cut off" important information? no
+* Are there any other mechanical issues with your level that prevent the player from progressing, or cause the system to act in unexpected ways? no
 
 Make some notes on what needs to be changed to make your game playable.
 
@@ -44,19 +44,19 @@ Make some notes on what needs to be changed to make your game playable.
 Depending on how buggy your game is, this might take longer. That's ok! When giving the game to external playtesters, you don't want them to come back and tell you they couldn't play your game because of a bug.
 
 ## Playtest 1: Experience Goals (30 min)
-Questions about the experience of playing the game are hard to answer on our own, so it is time for some playtesting! Unlike QA, we are no longer looking for bugs, but instead trying to understand if our game is acheiving the kind of design goals we have. In short: is it "fun"?
+Questions about the experience of playing the game are hard to answer on our own, so it is time for some playtesting! Unlike QA, we are no longer looking for bugs, but instead trying to understand if our game is acheiving the kind of design goals we have. In short: is it "fun"? i dont think so
 
 ### Experience Goals and Design Questions
 Before passing the game onto another player, you'll need some idea of the design questions you are trying to answer. Start thinking about higher-level experience goals. While we'll dive into this in later weeks, consider:
 
-* Are you trying to make a challenging level? If so, what kind of challenge? Is it about quick reflexes and movement, or slow and deliberate path-choosing?
-* Do you instead want to make a more "chill" and exploratory experience, with more spaces for the player to take their time and enjoy the vibe?
+* Are you trying to make a challenging level? If so, what kind of challenge? Is it about quick reflexes and movement, or slow and deliberate path-choosing? no. but i change my mind now its time to make jump king
+* Do you instead want to make a more "chill" and exploratory experience, with more spaces for the player to take their time and enjoy the vibe? nah
 
 Take a look at Quantic Foundary's Gamer Motivation Model (avaliable in the lecture slides) and select onr or two of these catergoies (Action, Mastery, Achievement, etc) to focus your design on.
 
 Jot down three questions that you will ask your player about these. They don't need to be too structured at this stage, but should avoid direct reference to your experience goals. For example:
 
-* Instead of asking "Did the game have enough excitement?" ask "What were you feeling during the pitfall at the end?"
+* Instead of asking "Did the game have enough excitement?" ask "What were you feeling during the pitfall at the end?" did you suffer :3
 
 * Instead of asking "Did the game hit the target of mastery?" ask "Were there any parts of the level that made you slow down and think? If so, which sections?
 
@@ -72,6 +72,8 @@ With this feedback in mind, start iterating on your level.
 
 Focus on ways you can address any of the issues that arose from your playtest. For instance, a section that was meant to be challenged that was breezed through might need to be made a bit harder, or the path to the end might have been too hard to find.
 
+changed easy path tiles to grass instead of stone to alter player choices in path finding.
+
 On the flipside, consider how you can also leverage the good things about your level. Were there particularly exciting sections for your player? What made them so engaging, and how can you make the rest of your level like that? Did they point out something new you hadn't considered?
 
 It's ok to revisit your experience goals at this stage. Iteration often involves going back-and-forth between documentation, prototypes and the game itself.
@@ -84,12 +86,21 @@ In your next iteration, try narrowing things down to the qualities of your targe
 
 Again, craft a couple of questions that you think will help you test that you've made a game "for" your ideal player. For instance, if they are into games that require quick reflexe, you could ask them if they found any part of the game particularly hard, what kind of skills they thought they needed, etc.
 
+hehe do you like jump king my guy.
+my target audience would be players who enjoys challenges or platformers
+so the ideal person would be someone who likes both? he might play jump king, getting over it, chained together, super mario, etc.
+
+did the level feel accomplishing? 
+would you have preferred the level to be longer/shorter, or harder/easier?(harder ideally)
+
 ### Swapping games
 Swap with another peer. You are unlikely to find your exact "ideal" player in the room, but ask a couple of questions to see if you can find someone with a few things in common with your ideal player.
 
 You may be able to do a swap like last time, but might find you are the ideal player for someone else instead. Importantly, try to playtest at least one other student's game.
 
 Once you've done your playtesting, make sure you interview your player and collect data, and allow yourself to be interviewed by the person whose game you played.
+
+give more challenge, time to add roofies :D(literally just a tile above your head to make you be more precise with jump)
 
 ### Third iteration
 Based on this round of feedback (as well as your experience of playing other games!) start making some more changes. Once again, consider both the good and bad about your level. If all the feedback was positive, try and understand why and keep building out your level. If it turns out your level totally missed the mark, don't be discouraged - this is an important part of the process!
